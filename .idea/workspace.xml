@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc85bc62-7dfb-44a0-a860-1c4972bbf313" name="Changes" comment="" />
+    <list default="true" id="fc85bc62-7dfb-44a0-a860-1c4972bbf313" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_12_2023_20_13_[Changes]/ex021.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 16. encontrando a parte inteira.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 16.1extra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 17 comprimento da hipotenusa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 18 seno  coseno  tangente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 19 randon aleatorio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 20 randon ordem sorteado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafio 21 tocando musica no python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 8.2 Fraçao em mm eu que fiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 8.2 Fraçao em mm eu que fiz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafio 8.2 fraçao em mm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafio 8.2 fraçao em mm.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +30,9 @@
         <option value="Python Unit Test" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -31,8 +47,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Desafio 21 tocando musica no python.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
   <component name="PyConsoleOptionsProvider">
@@ -41,6 +59,13 @@
         <option name="useSoftWraps" value="true" />
       </console-settings>
     </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,5 +77,16 @@
       <updated>1698886889963</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
