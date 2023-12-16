@@ -1,3 +1,3 @@
 import random
-di=str(input('nome'))
+di=str(input('nome'))]
 
