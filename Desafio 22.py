@@ -1,2 +1,2 @@
 import random
-n=
+n=input()
